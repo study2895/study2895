@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ʀᴇᴀᴄᴛ, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ᴇᴛᴄ ..... ᴀɴᴅ</strong> 🌏   🎈
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;All+the+Best+to+you..)](https://git.io/typing-svg)
+
