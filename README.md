@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <div align="center">
  🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ʀᴇᴀᴄᴛ, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ᴇᴛᴄ ..... ᴀɴᴅ</strong> 🌏   🎈
 </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;All+the+Best+to+you..)](https://git.io/typing-svg)
