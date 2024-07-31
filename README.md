@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  🎈 learning React, typescript, tailwind CSS, figma, etc ..... and 🌏  🎈
+ 🎈   ʟᴇᴀʀɴɪɴɢ ʀᴇᴀᴄᴛ, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ᴇᴛᴄ ..... ᴀɴᴅ 🌏   🎈
 </div>
