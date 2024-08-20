@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
  
- 🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ʀᴇᴀᴄᴛ, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ᴇᴛᴄ ..... ᴀɴᴅ</strong> 🌏   🎈
+ 🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ʀᴇᴀᴄᴛ, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, Vue.js, Bootstrap ᴇᴛᴄ ..... ᴀɴᴅ</strong> 🌏   🎈
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
 </div>
 
