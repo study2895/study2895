@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+* star - figma
+* J - github ... 근데 한글이름 영어이름 이것저것 다 적어봄
+
 -->
 
 <div align="center">
