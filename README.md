@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆<br>
 <br>
 
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white">
   
  🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ.ᴊs, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ʙᴏᴏᴛsᴛʀᴀᴘ, ʀᴇᴀᴄᴛ, sᴛʀᴇᴀᴍʟɪᴛ, ᴇᴛᴄ,  ..... ᴀɴᴅ </strong> 🌏   🎈
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
