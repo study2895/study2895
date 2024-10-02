@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 <br>
 
   
- 🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ʀᴇᴀᴄᴛ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ᴠᴜᴇ.ᴊs, ʙᴏᴏᴛsᴛʀᴀᴘ ᴇᴛᴄ ..... ᴀɴᴅ</strong> 🌏   🎈
+ 🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ.ᴊs, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ʙᴏᴏᴛsᴛʀᴀᴘ, ʀᴇᴀᴄᴛ, sᴛʀᴇᴀᴍʟɪᴛ, ᴇᴛᴄ,  ..... ᴀɴᴅ </strong> 🌏   🎈
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
 </div>
