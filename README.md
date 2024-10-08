@@ -17,17 +17,31 @@ Here are some ideas to get you started:
 
 * star - figma
 * J - github ... 근데 한글이름 영어이름 이것저것 다 적어봄
-
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white">
 -->
 
 <div align="center">
  <br>
 ⋆｡˚ ☁︎ ˚｡⋆｡˚☽˚｡⋆<br>
 <br>
-
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white">
+
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=boostrap&logoColor=white">
+<img src="https://img.shields.io/badge/taliwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<br><br><br>
   
  🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ.ᴊs, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ғɪɢᴍᴀ, ʙᴏᴏᴛsᴛʀᴀᴘ, ʀᴇᴀᴄᴛ, sᴛʀᴇᴀᴍʟɪᴛ, ᴇᴛᴄ,  ..... ᴀɴᴅ </strong> 🌏   🎈
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
 </div>
+
+
