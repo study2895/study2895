@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"><br>
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <br><br><br>
   
  🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ.ᴊs, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ᴇᴛᴄ..... ᴀɴᴅ </strong> 🌏   🎈<br>
