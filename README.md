@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-ғɪɢᴍᴀ, ʙᴏᴏᴛsᴛʀᴀᴘ, ʀᴇᴀᴄᴛ, sᴛʀᴇᴀᴍʟɪᴛ, 
+ғɪɢᴍᴀ, ʙᴏᴏᴛsᴛʀᴀᴘ, ʀᴇᴀᴄᴛ, sᴛʀᴇᴀᴍʟɪᴛ, ᴇᴛᴄ
 -->
 
 <div align="center">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <br><br><br>
   
- 🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ.ᴊs, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ᴇᴛᴄ..... ᴀɴᴅ </strong> 🌏   🎈<br>
+ 🎈   ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ.ᴊs, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ɴᴜxᴛ.ᴊs..... ᴀɴᴅ </strong> 🌏   🎈<br>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
 </div>
 
