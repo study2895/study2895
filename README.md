@@ -40,7 +40,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<br><br><br>
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/57a40481-219e-4235-97e4-f4d39cea98d6" width="50" alt="Chick Sticker by LINE FRIENDS">
+
   
    ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <strong> ᴠᴜᴇ ǫᴜᴇʀʏ, ᴠᴜᴇx, ᴠᴜᴇ ᴄʟɪ, ᴛᴀɪʟᴡɪɴᴅ ᴄss, ɴᴜxᴛ.ᴊs..... ᴀɴᴅ 🎨</strong> <br>
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=F7AC59&center=true&vCenter=true&width=435&lines=hello;all+the+best+to+you)](https://git.io/typing-svg)
