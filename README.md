@@ -76,10 +76,9 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white">   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/VSC-0078d7?style=flat-square&logo=&logoColor=white">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white">
 </div>
-
-
 
 
 <img src="https://github.com/user-attachments/assets/57a40481-219e-4235-97e4-f4d39cea98d6" width="50" alt="Chick Sticker by LINE FRIENDS">
