@@ -68,6 +68,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 
 
