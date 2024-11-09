@@ -91,6 +91,9 @@ Here are some ideas to get you started:
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=study2895&theme=transparent&text_color=403b38&border_color=737373&title_color=cc7549&bg_color=fcf4f0&border_radius=20&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=study2895&layout=compact&theme=transparent&text_color=403b38&border_color=737373&title_color=cc7549&bg_color=fcf4f0&border_radius=20&hide_border=true)
+
+
 </div>
 
 
